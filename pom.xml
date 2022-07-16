@@ -53,13 +53,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<!-- <resources> 
-        <resource> 
-            <directory>src/main/resources</directory> 
-            <excludes> 
-                <exclude>application.properties</exclude> 
-            </excludes> 
-        </resource> 
-     </resources>  -->
 
 </project>
