@@ -8,7 +8,7 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>datagrid.cop4.remote.client</groupId>
+	<groupId>datagrid.ocp4.remote.client</groupId>
 	<artifactId>datagrid-ocp4-remote-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>datagrid-ocp4-remote-client</name>

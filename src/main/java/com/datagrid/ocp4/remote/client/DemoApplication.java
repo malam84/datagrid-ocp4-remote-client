@@ -1,4 +1,4 @@
-package com.datagrid.cop4.remote.client;
+package com.datagrid.ocp4.remote.client;
 
 import org.infinispan.client.hotrod.RemoteCache;
 import org.infinispan.client.hotrod.RemoteCacheManager;
